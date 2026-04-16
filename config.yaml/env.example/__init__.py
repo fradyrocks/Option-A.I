@@ -1,0 +1,5 @@
+TELEGRAM_BOT_TOKEN=paste_your_bot_token_here
+TELEGRAM_CHANNEL_ID=paste_your_channel_id_here
+ADMIN_TELEGRAM_ID=paste_your_personal_id_here
+MIN_CONFIDENCE=75
+LOG_LEVEL=INFO
